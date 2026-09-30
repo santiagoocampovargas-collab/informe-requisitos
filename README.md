@@ -13,8 +13,7 @@ Este repositorio tiene como finalidad desarrollar de manera colaborativa el info
 
 El trabajo se realizará mediante Git y GitHub, permitiendo que cada integrante contribuya al documento y que los cambios sean revisados e integrados de manera organizada.
 
-[8:03 p. m., 29/9/2026] Santiago Norrea: Téngame eso un ratico porfa
-[8:07 p. m., 29/9/2026] Santiago Norrea: ## 3. Integrantes y distribución del trabajo
+ ## 3. Integrantes y distribución del trabajo
 
 El equipo de trabajo de la Célula 3 está conformado por cuatro integrantes, quienes tienen asignadas las siguientes responsabilidades para la elaboración del informe de requisitos del proyecto Sazón.
 
