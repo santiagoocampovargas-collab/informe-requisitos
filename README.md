@@ -1,5 +1,5 @@
-# informe-requisitos
-# 🍽️ Sazón — Célula 3
+# informe-de-requisitos
+# 🍽️ Sazón — Célula 3, Despensa Virtual y Sugerencias.
 
 ## 1. Descripción del proyecto
 
@@ -9,20 +9,19 @@ El sistema busca facilitar la preparación de alimentos mediante la búsqueda de
 
 ## 2. Objetivo del repositorio
 
-Este repositorio tiene como finalidad desarrollar de manera colaborativa el informe de requisitos del proyecto Sazón, documentando sus objetivos, alcance, problemática, tecnologías y demás elementos necesarios para definir el funcionamiento del sistema.
+Este repositorio tiene como finalidad desarrollar de manera colaborativa el informe de requisitos de la célula 3, documentando sus objetivos, alcance, problemática, tecnologías y demás elementos necesarios para definir el funcionamiento del sistema.
 
 El trabajo se realizará mediante Git y GitHub, permitiendo que cada integrante contribuya al documento y que los cambios sean revisados e integrados de manera organizada.
 
  ## 3. Integrantes y distribución del trabajo
 
-El equipo de trabajo de la Célula 3 está conformado por cuatro integrantes, quienes tienen asignadas las siguientes responsabilidades para la elaboración del informe de requisitos del proyecto Sazón.
+El equipo de trabajo de la Célula 3 está conformado por cinco integrantes, quienes tienen asignadas las siguientes responsabilidades para la elaboración del informe de requisitos de la célula 3.
 
 ### Santiago — Líder del equipo
 
 Responsable de coordinar el trabajo colaborativo y realizar las siguientes actividades:
 
 - Introducción.
-- Objetivo general.
 - Alcance (inclusiones).
 
 ### Katherin
@@ -31,8 +30,6 @@ Responsable de desarrollar las siguientes actividades:
 
 - Planteamiento del problema.
 - Conclusiones.
-- Elaboración de la tabla de contenido.
-- Generación del listado de tablas y del listado de figuras.
 
 ### Duvan
 
@@ -40,7 +37,15 @@ Responsable de desarrollar las siguientes actividades:
 
 - Stack tecnológico.
 - Alcance (exclusiones).
-- Elaboración de la portada del informe.
+  
+### Daniel
+
+responsable de desarrollar las siguientes actividades:
+
+-Portada.
+-Tabla de contenido y generación de listado de tablas y de figuras.
+-objetivo general.
+
 
 ### María Paz
 
